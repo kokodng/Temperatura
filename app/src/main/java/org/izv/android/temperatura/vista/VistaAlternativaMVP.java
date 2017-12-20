@@ -18,7 +18,7 @@ public class VistaAlternativaMVP extends AppCompatActivity implements ContratoTe
     private void init() {
         sbCelsius = findViewById(R.id.sbCelsius);
         sbFahrenheit = findViewById(R.id.sbFahrenheit);
-        // j
+        // dsfdsfdsfds
         presentador = new PresentadorTemperatura(this);
 
         sbCelsius.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
