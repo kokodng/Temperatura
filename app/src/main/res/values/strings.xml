@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperatura</string>
+    <string name="cambia">cambia</string>
+    <string name="temperatura">temperatura</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+</resources>
